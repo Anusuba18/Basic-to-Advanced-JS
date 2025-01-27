@@ -1,0 +1,15 @@
+<script>
+    let myObj={
+        value:10,
+       multiplyTradition:function(num){
+          console.log(this.value);
+           console.log(this.value*num);
+       },
+       multiplyArrow:(num)=>{
+           console.log(this.value);
+           console.log(this.value*num);
+       }
+    };
+    myObj.multiplyTradition(4);
+    myObj.multiplyArrow(9);
+</script>
