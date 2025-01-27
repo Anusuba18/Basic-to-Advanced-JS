@@ -94,4 +94,60 @@ Task 35: Functions
 
 Task 36: Arrow Functions
 "Declare arrow functions for cleaner syntax. Explore the modern way of writing JavaScript functions!"
+Task 37: Logical Operators in Range
+"Use logical operators to check if a number falls within a specific range. Simplify conditional checks!"
+
+Task 38: NOT Operator
+"Invert boolean values using the ! operator. Understand how negation works in JavaScript!"
+
+Task 39: Short-Circuiting
+"Explore the short-circuiting nature of && and || operators. Learn how they evaluate expressions efficiently!"
+
+Task 40: Non-Boolean Logical Comparisons
+"Compare non-boolean values using logical operators. Understand how JavaScript evaluates truthy and falsy values!"
+
+Task 41: Function Sum
+"Write a function that takes two numbers as arguments and returns their sum. Simplify calculations with reusable code!"
+
+Task 42: Area of Rectangle
+"Create a function to calculate the area of a rectangle. Work with parameters and return values!"
+
+Task 43: Parameterless Function
+"Declare a function without parameters and call it. Understand how functions work independently!"
+
+Task 44: No Return Value
+"Write a function without a return statement and observe its default return value. Explore JavaScript function behavior!"
+
+Task 45: Default Parameters
+"Create a function with default parameters and call it with different arguments. Simplify handling optional inputs!"
+
+Task 46: Greet with Arrow Functions
+"Write an arrow function to greet users dynamically. Combine concise syntax with powerful functionality!"
+
+Task 47: Arrow Function Addition
+"Declare an arrow function to calculate the sum of two numbers. Practice with concise function syntax!"
+
+Task 48: Arrow Function for Even Check
+"Create an arrow function to check if a number is even. Simplify conditional checks with modern syntax!"
+
+Task 49: Maximum Value Function
+"Write an arrow function to find the maximum of two numbers. Compare values dynamically!"
+
+Task 50: this in Functions
+"Compare the behavior of the this keyword in arrow functions vs traditional functions. Learn scoping rules!"
+Task 51: Logical Operators in Conditions
+"Write a condition using logical operators (&&, ||, !) to evaluate multiple scenarios. Practice complex logic building!"
+
+Task 52: Logical Short-Circuit Evaluation
+"Test how JavaScript short-circuits && and || operations. Learn when expressions stop evaluating!"
+
+Task 53: Range Check with Logical Operators
+"Use && to check if a number lies within a specific range. Combine conditions seamlessly!"
+
+Task 54: Arrow Function Behavior
+"Understand how arrow functions handle this differently than traditional functions. Dive into scoping rules!"
+
+Task 55: Reuse Functions Dynamically
+"Practice dynamic use of arrow functions by passing parameters and testing this in different scenarios!"
+
 
